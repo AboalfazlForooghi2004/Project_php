@@ -25,9 +25,4 @@
 <li><a hrf=#>ارتباط با ما </a></li>
 
 </ul>
-
-</nav>
-
-</body>
-
-</html>
+<!-- start_content -->
